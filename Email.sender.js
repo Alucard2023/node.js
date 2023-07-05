@@ -4,7 +4,7 @@ var transporter = nodemailer.createTransport({
   service: 'hotmail',
   auth: {
     user: 'alucard_concept12@hotmail.com',
-    pass: 'clubafricaine'
+    pass: '********'
   }
 });
 var mailOptions = {
